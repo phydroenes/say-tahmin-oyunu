@@ -1,0 +1,1 @@
+bebek pyhton müşteri anktei
