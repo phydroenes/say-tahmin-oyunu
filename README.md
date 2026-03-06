@@ -1,1 +1,1 @@
-bebek pyhton müşteri anktei
+bebek pyhton müşteri anketi
